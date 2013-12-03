@@ -1,0 +1,10 @@
+{
+  "name": "crafty",
+  "version": "0.5.4",
+  "dependencies": {
+  },
+  "scripts": [
+    "index.js",
+    "lib/crafty.js"
+  ]
+}
