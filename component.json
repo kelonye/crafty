@@ -3,8 +3,9 @@
   "version": "0.5.4",
   "dependencies": {
   },
+  "main": "lib/index.js",
   "scripts": [
-    "index.js",
+    "lib/index.js",
     "lib/crafty.js"
   ]
 }
